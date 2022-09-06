@@ -1,3 +1,32 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@DmitryVorobevDev 
+DmitryVorobevDev
+/
+HomeTask-C-7
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+HomeTask-C-7/.gitignore
+@DmitryVorobevDev
+DmitryVorobevDev Compleate hometask
+Latest commit 9a7ba76 on 30 Jul
+ History
+ 1 contributor
+116 lines (97 sloc)  1.54 KB
+
 # User-specific files
 *.suo
 *.user
@@ -114,3 +143,17 @@ ClientBin/
 [Ss]tyle[Cc]op.*
 ~$*
 *~
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
